@@ -17,9 +17,9 @@ It focuses on analyzing and using knowledge graphs from ARCO and Large Language 
 In the following parts you will have information about the methodology, results and analysis, discussion, conclusion and possible future developments.
 
 
-## Header 2
+## METHODOLOGY
+The tools used for developing this project were: 
 
-> This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
