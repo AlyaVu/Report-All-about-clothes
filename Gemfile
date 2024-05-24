@@ -8,5 +8,5 @@ group :jekyll_plugins do
   gem "github-pages"
 end
 
-gem "minimal", "~> 2.5"
+gem "minima", "~> 2.5"
 
